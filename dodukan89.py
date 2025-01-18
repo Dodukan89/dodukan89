@@ -9,3 +9,26 @@ if word in meme_dict.keys():
     print("Bunların anlamı budur")
 else:
     print("sözlükte buna karşılık bişey yok tekrar dene")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#help im actually spawned cem yılmaz
