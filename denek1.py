@@ -27,4 +27,4 @@ async def joined(ctx, member: discord.Member):
     """Hoşgeldin!"""
     await ctx.send(f'{member.name} joined {discord.utils.format_dt(member.joined_at)}')
 
-bot.run("MTMzNTcwNjAwNDUxNTQ1NTAyNg.Gq0-5v.73dVsKPWXo75JhM12i_pvdlpDzK8FvLPD2oOWc")
+bot.run("O sihirli token burdaydı :(")
